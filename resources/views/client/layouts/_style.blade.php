@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="{{asset('client/assets/css/bootstrap.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/meanmenu.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/animate.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/owl-carousel.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/swiper-bundle.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/backtotop.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/magnific-popup.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/nice-select.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/font-awesome-pro.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/spacing.css')}}">
+<link rel="stylesheet" href="{{asset('client/assets/css/style.css')}}">
